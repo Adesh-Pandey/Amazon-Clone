@@ -1,0 +1,24 @@
+Amazon CLone Project
+
+#Things completed
+
+1. Homepage UI modification.
+2. Simple login and sign up system.
+3. Add to cart options, remove and sutotal.
+4. Simple UI transition between pages/components.
+5. Responsive pages.
+
+# Things in mind for completion
+
+0. Product removal animation.{This requires react libraries and takes time}
+1. Proper verification of sign up emails.
+2. Payment method using stripe. {not permitted by firebase without credit cards}
+3. Responsive nav bar(minimised nav bar option) and product arrangement.{not better for amazon (doesnt looks good)}
+
+
+# for professional 
+
+1. Add firestore or mongo db using express for multiple product option.
+2. Install a search query with recomandation.
+3. Each product have an individual detail page with other recomandation.
+

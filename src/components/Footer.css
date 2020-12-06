@@ -1,0 +1,8 @@
+.Footer {
+  background-color: rgb(108, 108, 136);
+  color: aliceblue;
+  display: flex;
+  justify-content: space-around;
+  padding: 30px 20px 50px 20px;
+  min-width: 465px;
+}

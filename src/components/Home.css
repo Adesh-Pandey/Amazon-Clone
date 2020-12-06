@@ -1,0 +1,21 @@
+.home {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 1200px;
+  width: fit-content;
+}
+.home__image {
+  width: 100%;
+  z-index: -1;
+  margin-bottom: -150px;
+  mask-image: linear-gradient(to bottom, black, rgba(0, 0, 0, 0));
+}
+.home__row {
+  display: flex;
+
+  width: auto;
+  margin-left: 5px;
+  margin-right: 5px;
+  z-index: 1;
+}
